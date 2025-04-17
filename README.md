@@ -49,4 +49,14 @@ To run the projects in this repository, you will need:
    cd PySpark_Projects/<project-folder>
 
 
+# EUA Tariff
+
+## Images (Graphics made in POWER BI) - Download the POWER_BI_REPORT file and import it into power bi
+
+![image](https://github.com/user-attachments/assets/e1f1c756-9111-4d9f-9ce7-b183832dc621)
+
+![image](https://github.com/user-attachments/assets/cce79d94-9ce0-444c-9a92-bce4873ca12e)
+
+![image](https://github.com/user-attachments/assets/188aceb8-4e59-4e3c-9060-dbcf1fe48d75)
+
    
